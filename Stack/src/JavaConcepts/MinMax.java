@@ -1,0 +1,46 @@
+package JavaConcepts;
+
+public class MinMax {
+	
+	static void printSmallestSecondSmallest(int arr[]) {
+		
+		int secondsmallest ,smallest;
+		secondsmallest=arr[0];
+		smallest=arr[0];
+		int largest=arr[arr.length-1];
+		int secondLargest=arr[arr.length-1];
+		for(int i=1; i<arr.length;i++ ) {
+			
+			if(arr[i]<smallest) {
+				secondsmallest=smallest;
+				smallest=arr[i];
+				
+			}
+			
+			else  if (arr[i] <secondsmallest && arr[i]!=smallest) {
+				secondsmallest=arr[i];
+			}
+			
+			if(arr[i]>largest) {
+				secondLargest=largest;
+				largest=arr[i];
+			}
+			
+			else if (arr[i] > secondLargest && arr[i]!=largest) {
+				secondLargest=arr[i];
+			}
+		}
+		System.out.println("Smallest "+smallest);
+		System.out.println("Second Smallest "+secondsmallest);
+		
+		System.out.println("Largest "+largest);
+		System.out.println("Second Largest "+secondLargest);
+	}
+	
+	public static void main(String[] args) {
+		  int arr[] = {12, 13, 1, 10, 34, 1};
+		  printSmallestSecondSmallest(arr);
+		
+	}
+
+}
