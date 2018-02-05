@@ -1,0 +1,10 @@
+package JavaConcepts;
+
+public class ThreadSyncExample {
+	
+     static volatile int counter =0;
+     static volatile Object object = new Object();
+     
+    
+
+}

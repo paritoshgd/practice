@@ -1,0 +1,25 @@
+package JavaConcepts;
+
+
+public class EvenOddPrintThreads{
+	
+	public static void main(String[] args) {
+		
+		public static volatile counter=0;
+		
+		
+	}
+}
+
+public class EvenGenerator implements Runnable{
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		
+		
+		
+	}
+	
+	
+}

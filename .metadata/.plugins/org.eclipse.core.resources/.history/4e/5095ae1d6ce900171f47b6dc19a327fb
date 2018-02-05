@@ -1,0 +1,16 @@
+package JavaConcepts;
+
+public class ArrayFindElementRepeatTwice {
+	
+	static void findSingleElement(int arr[]) {
+		
+		int singleVal=0;
+		int countSingleVal=0;
+		
+		for(int i=0; i<arr.length;i++) {
+			
+			singleVal=arr[i];			
+		}
+	}
+
+}

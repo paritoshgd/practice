@@ -1,0 +1,17 @@
+package Recursion;
+
+public class IntegerToBinary {
+	
+	static void   computeBinary(int num) {
+		
+		if(num==0) {
+			return; 
+		}
+		else {
+		  computeBinary(num/2);
+		  System.out.println(num%2);
+		
+		}
+	}
+
+}

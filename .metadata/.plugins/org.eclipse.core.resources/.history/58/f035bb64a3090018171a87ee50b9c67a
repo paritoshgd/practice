@@ -1,0 +1,48 @@
+package LinkedList;
+
+//Remove all elements from a linked list of integers that have value val.
+
+class RCNode{
+	
+	int data;
+	RCNode next;
+	
+	RCNode(int x){
+		this.data=x;
+		this.next=null;
+	}
+}
+
+class RCList{
+	
+	RCNode head;
+	
+	RCList(){
+		this.head=null;
+	}
+	
+	public void push(int x) {
+		RCNode temp = new RCNode(x);
+		temp.next=head;
+		head=temp;
+	}
+	
+	public void display(RCNode temp) {
+		while(temp!=null) {
+			System.out.print(temp.data+"-->");
+			temp = temp.next;
+		}
+	}
+	
+	public void removeElements(int val) {
+		
+		RCNode helper = new RCNode(0); // Create a helper node 
+		
+		
+		
+	}
+}
+public class RemoveElementsByValue {
+
+	
+}

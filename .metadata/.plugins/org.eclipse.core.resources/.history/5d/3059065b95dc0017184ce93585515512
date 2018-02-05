@@ -1,0 +1,20 @@
+package JavaConcepts;
+
+public class ThreadInterruptExample implements Runnable {
+	
+	public void run() {
+		
+		for(int i=0;i<10;i++) {
+			System.out.println("Printing from thread " +i);
+			
+			try {
+				Thread.sleep(2000);
+				continue;
+			}catch(InterruptedException e) {
+				
+			}
+		}
+		
+	}
+
+}

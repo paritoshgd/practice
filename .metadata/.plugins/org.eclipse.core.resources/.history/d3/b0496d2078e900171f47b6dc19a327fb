@@ -1,0 +1,9 @@
+package JavaConcepts;
+
+public class FirstRepeatingArrayElement {
+	
+	static void firstRepeatingElement(int arr[]) {
+		
+		
+	}
+}

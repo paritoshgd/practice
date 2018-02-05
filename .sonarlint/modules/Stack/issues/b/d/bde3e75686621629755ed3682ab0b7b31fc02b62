@@ -1,0 +1,21 @@
+
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒÇœ8ú‚Í‘,H’RMINORZ
+CODE_SMELL
+Œsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›¯’g8ŸŸÎ‘,H–RMINORZ
+CODE_SMELL
+l
+squid:S1061"9Replace this use of System.out or System.err by a logger.(âûû8ÖÖà‘,H£RMAJORZ
+CODE_SMELL
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ğğ¼HêRMINORZ
+CODE_SMELL
+l
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¾É²°8®åä‘,H¤RMAJORZ
+CODE_SMELL
+q
+squid:S106/"9Replace this use of System.out or System.err by a logger.(¨»”üÿÿÿÿ8Êà‘,H¡RMAJORZ
+CODE_SMELL
+ƒsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(›¯’g8ŸŸÎ‘,H™RMAJORZ
+CODE_SMELL
+q
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ÆØ™¶üÿÿÿÿ8Êà‘,H¢RMAJORZ
+CODE_SMELL

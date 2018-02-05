@@ -1,0 +1,10 @@
+package JavaConcepts;
+
+public class ThreadReversePrint extends Thread{
+	
+	int counter;
+	
+	public void ThreadReversePrint(int counter) {
+		this.counter=counter;
+	}
+}

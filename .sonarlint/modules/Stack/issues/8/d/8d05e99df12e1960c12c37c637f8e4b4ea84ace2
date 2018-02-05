@@ -1,0 +1,18 @@
+
+qsquid:S1197'"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8—‚…ü,HÁRMINORZ
+CODE_SMELL
+rsquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(™Ş÷ıÿÿÿÿ8Ñ›öû,HµRMINORZ
+CODE_SMELL
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ğğ¼HRMINORZ
+CODE_SMELL
+rsquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(œÔ»çøÿÿÿÿ8Ñ›öû,H¶RMINORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ìÅéøÿÿÿÿ8¡¦ïû,H§RMINORZ
+CODE_SMELL
+‰squid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(·ìÅéøÿÿÿÿ8¡¦ïû,H¬RMAJORZ
+CODE_SMELL
+q
+squid:S106#"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Ğàƒü,HÀRMAJORZ
+CODE_SMELL
+u"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(øãş•ÿÿÿÿÿ8Ò€ü,H¾RCRITICALZ
+CODE_SMELL

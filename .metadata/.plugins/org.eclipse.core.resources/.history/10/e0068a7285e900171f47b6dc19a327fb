@@ -1,0 +1,36 @@
+package JavaConcepts;
+
+import java.util.HashMap;
+import java.util.HashSet;
+
+public class FirstNonRepeatingArrayElement {
+	
+	static void firstNonRepeatingElement(int [] arr) {
+		
+		HashMap<Integer,Integer> map = new HashMap();
+	   int indexofFirstNonRepeat=-1;
+	   int tempIndex=-1;
+		for (int i=arr.length-1;i>=0;i--) {
+			if(map.containsKey(arr[i])) {				
+			   int count=map.get(arr[i]);
+			   count=count+1;
+			   map.put(arr[i], count);
+			   indexOfFirstNonRepeat=tempIndex;
+		}
+			else {
+				map.put(arr[i], 1);
+				 tempIndex=i;
+			}
+			
+		}
+	
+	
+	}
+
+public static void main(String[] args) {
+		
+		int arr[] = {5, 3, 3, 5, 6};
+       firstNonRepeatingElement(arr);
+		
+	}
+}

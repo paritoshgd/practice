@@ -1,0 +1,14 @@
+package Strings;
+
+import java.util.HashMap;
+
+public class Isomorphic {
+	
+	public static void	isIsomorphic(String s, String t) {
+		
+		HashMap<Character,Character>map = new HashMap<>();
+		
+		
+	}
+
+}

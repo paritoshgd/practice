@@ -1,0 +1,54 @@
+package JavaConcepts;
+
+import java.util.HashMap;
+import java.util.HashSet;
+
+public class HashSetRepeatTwice {
+	
+	
+	static void findRepeatTwice(int arr[]) {
+		
+		HashMap<Integer,Integer> hashMap = new HashMap();
+		
+		for (int i=0;i<arr.length;i++) {
+			
+			if(hashMap.containsKey(arr[i])) {
+				int count=hashMap.get(arr[i]);
+				count++;
+				hashMap.put(arr[i],count);				
+			}
+			else {
+				
+				 hashMap.put(arr[i], 1);				
+			}
+		    
+		}
+		
+		//find the element with single value
+		for(Integer key : hashMap.keySet()) {
+			
+			if(hashMap.get(key)==1) {
+				
+				System.out.println("Value which is present once is  "+key);
+			}
+			
+			else {
+				
+				System.out.print("Value present more than once is " +key+" count is "+hashMap.get(key));
+				
+				
+			}
+			
+		}
+				
+	}
+	
+	public static void main(String[] args) {
+		
+		int arr[]={1, 1, 2, 2, 3, 4, 4, 5, 5};
+		
+		findRepeatTwice(arr);
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package JavaConcepts;
+
+public class ThreadSyncExample {
+	
+     static int volatile =0;
+     
+    
+
+}

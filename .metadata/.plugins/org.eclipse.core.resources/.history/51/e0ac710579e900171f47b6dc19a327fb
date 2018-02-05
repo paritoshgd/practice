@@ -1,0 +1,11 @@
+package JavaConcepts;
+
+public class FirstNonRepeatingArrayElement {
+	
+	static void firstNonRepeatingElement(int [] arr) {
+		
+		HashSet<Integer> set = new HashSet();
+		
+	}
+
+}

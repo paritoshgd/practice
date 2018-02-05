@@ -1,0 +1,14 @@
+
+Ÿsquid:S1319"kThe type of the "map" object should be an interface such as "Map" rather than the implementation "HashMap".(›ËŠâ8íÉÈÖ,HŒRMINORZ
+CODE_SMELL
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ş±ş¤HåRMINORZ
+CODE_SMELL
+l
+squid:S1065"9Replace this use of System.out or System.err by a logger.(“èŠú8ôƒÏÖ,HRMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä„ƒ8ËÙÖ,HèRMINORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùê§Œşÿÿÿÿ8ËÙÖ,HçRMINORZ
+CODE_SMELL
+€squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›ìÂ¸úÿÿÿÿHäRMINORZ
+CODE_SMELL

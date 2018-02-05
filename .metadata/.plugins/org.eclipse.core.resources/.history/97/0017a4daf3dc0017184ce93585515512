@@ -1,0 +1,23 @@
+package JavaConcepts;
+
+public class ThreadReversePrint extends Thread{
+	
+	int counter;
+	
+	public void ThreadReversePrint(int counter) {
+		this.counter=counter;
+	}
+	
+	public void run() {
+		
+		if(counter <50) {
+			createThread(counter);
+			
+		}
+		System.out.println("Thread counter "+this.counter);
+	}
+	
+	public void createThread(int val) {
+		ThreadReversePrint t =new ThreadReversePrint("Thread"+val);
+	}
+}

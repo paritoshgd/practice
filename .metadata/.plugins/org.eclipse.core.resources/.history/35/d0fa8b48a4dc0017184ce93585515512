@@ -1,0 +1,11 @@
+package JavaConcepts;
+
+
+public class EvenOddPrintThreads{
+	
+	public static void main(String[] args) {
+		
+		
+	}
+}
+

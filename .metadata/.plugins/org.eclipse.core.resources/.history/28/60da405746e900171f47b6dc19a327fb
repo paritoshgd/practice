@@ -1,0 +1,14 @@
+package JavaConcepts;
+
+import java.util.HashSet;
+
+public class HashSetUnionIntersection {
+	
+	static void printUnion(int arr1[],int arr[]) {
+		
+		HashSet<Integer> hashSetUnion= new HashSet();
+		
+		
+	}
+
+}

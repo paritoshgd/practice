@@ -1,0 +1,39 @@
+package LinkedList;
+
+class OCNode{
+	
+	int data;
+	OCNode next;
+	
+	OCNode(int x){
+		this.data=x;
+		this.next=null;
+	}
+}
+
+class OCList{
+	
+	OCNode head;
+	
+	OCList(){
+		this.head=null;
+	}
+	
+	public void push(int x) {
+		
+		OCNode temp = new OCNode(x);
+		temp.next=head;
+		head=temp;
+	}
+	
+	public void display(CNode temp) {
+		
+		while(temp!=null) {
+			System.out.print(temp.data);
+			temp = temp.next;
+		}
+	}
+}
+public class OddEvenLinkedList {
+
+}

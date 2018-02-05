@@ -1,0 +1,9 @@
+package JavaConcepts;
+
+public class ThreadInterruptExample implements Runnable {
+	
+	public void run() {
+		
+	}
+
+}

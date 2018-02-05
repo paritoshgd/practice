@@ -1,0 +1,29 @@
+
+jsquid:S1135v"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÀÊ—·•,HÎRINFOZ
+CODE_SMELL
+q
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ùäîÃøÿÿÿÿ8äÜ±•,H¢RMAJORZ
+CODE_SMELL
+osquid:S2583e"CChange this condition so that it does not always evaluate to "true"(šé¦f8ÀÊ—·•,HËRMAJORZBUG
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ïóò¡úÿÿÿÿ8ÀÊ—·•,HÊRMAJORZ
+CODE_SMELL
+q
+squid:S106}"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÀÄ·•,HıRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(½Øüf8ã¶¡·•,HÜRMAJORZ
+CODE_SMELL
+q
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ïóò¡úÿÿÿÿ8­İ½·•,HúRMAJORZ
+CODE_SMELL
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(”ÖÀÄH¡RMINORZ
+CODE_SMELL
+usquid:UselessImportCheck"/Remove this unused import 'Strings.Isomorphic'.(‚˜Ìşÿÿÿÿ8š¶¤••,H£RMINORZ
+CODE_SMELL
+psquid:S2589\"7Remove this expression which always evaluates to "true"(ˆÕ¯úÿÿÿÿ8ÀÊ—·•,HÍRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(öû$8Úµ£·•,HèRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØÍ¯Öıÿÿÿÿ8©ù¸•,H€ RMAJORZ
+CODE_SMELL

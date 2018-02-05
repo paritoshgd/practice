@@ -1,0 +1,21 @@
+package JavaConcepts;
+
+public class ThreadSyncExample {
+	
+     static volatile int counter =0;
+     static Object object = new Object();
+     
+     static class EvenGenerator implements Runnable{
+    	 
+    	 public void run() {
+    		
+    		 synchronized(object) {
+    			 
+    			 
+    			 
+    		 }
+    	 }
+     }
+    
+
+}

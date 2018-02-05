@@ -1,0 +1,12 @@
+
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¾ÃŠ™úÿÿÿÿHêRMINORZ
+CODE_SMELL
+”squid:S4165
+"bRemove this useless assignment; "next" already holds the assigned value along all execution paths.(Œ¦ãßşÿÿÿÿ8ÍŒº“,HëRMAJORZBUG
+[squid:S1659""Declare "rear" on a separate line.(«Ì ùÿÿÿÿ8ì´Ùº“,HìRMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(¥Ï¨Óıÿÿÿÿ8ÕŞ˜¿“,HíRMAJORZ
+CODE_SMELL
+q
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ùäîÃøÿÿÿÿ8‘Ú’¿“,HîRMAJORZ
+CODE_SMELL

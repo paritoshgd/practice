@@ -1,0 +1,11 @@
+package Strings;
+
+public class Isomorphic {
+	
+	public static void	isIsomorphic(String s, String t) {
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,31 @@
+package JavaConcepts;
+
+import java.util.HashSet;
+
+public class HashSetUnionIntersection {
+	
+	static void printUnion(int arr1[],int arr2[]) {
+		
+		HashSet<Integer> hashSetUnion= new HashSet();
+		
+		for(int i=0; i<arr1.length;i++) {
+			hashSetUnion.add(arr1[i]);
+		}
+		
+		for(int i=0; i<arr2.length;i++) {
+			hashSetUnion.add(arr2[i]);
+		}
+		
+	  System.out.println("Union " +hashSetUnion);	
+	}
+	
+	static void printIntersection(int arr1[],int arr2[]) {
+		
+		for(int i=0; i<arr1.length;i++) {
+			hashSetUnion.add(arr1[i]);
+		}
+		
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package JavaConcepts;
+
+
+public class EvenOddPrintThreads{
+	 
+	public static volatile int counter;
+	public static void main(String[] args) {
+		
+			
+	}
+}
+

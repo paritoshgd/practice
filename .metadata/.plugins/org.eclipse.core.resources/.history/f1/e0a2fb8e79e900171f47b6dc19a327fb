@@ -1,0 +1,21 @@
+package JavaConcepts;
+
+import java.util.HashSet;
+
+public class FirstNonRepeatingArrayElement {
+	
+	static void firstNonRepeatingElement(int [] arr) {
+		
+		HashSet<Integer> set = new HashSet();
+		int element=-1;
+		
+		for ( int i=arr.length ;i>=0;i--) {
+			
+			if(!set.contains(arr[i])) {
+				
+			}
+			set.add(arr[i]);
+		}
+	}
+
+}

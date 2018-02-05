@@ -1,0 +1,17 @@
+package Recursion;
+
+public class IntegerToBinary {
+	
+	static int computeBinary(int num) {
+		
+		if() {
+			
+		}
+		else {
+			int rem=num%2;
+			num=num/2;
+			computeBinary(num);
+		}
+	}
+
+}

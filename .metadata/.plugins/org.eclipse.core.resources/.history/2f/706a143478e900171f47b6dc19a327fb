@@ -1,0 +1,20 @@
+package JavaConcepts;
+import java.util.*;
+public class FirstRepeatingArrayElement {
+	
+	static void firstRepeatingElement(int arr[]) {
+		
+		HashSet<Integer> set = new HashSet();
+		int min=-1;
+		//traverse array from right to left
+		for(int i=arr.length-1;i>=0;i--) {
+			// if the array contains element then set the min index
+			if(set.contains(arr[i])) {
+				min=i;
+			}
+			else {
+			set.add(arr[i]);
+			}
+		}
+	}
+}

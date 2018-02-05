@@ -1,0 +1,27 @@
+
+q
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8˜óìÜ•,HŸ RMAJORZ
+CODE_SMELL
+q
+squid:S106'"9Replace this use of System.out or System.err by a logger.(éö×Ñþÿÿÿÿ8 ¥Žá•,H° RMAJORZ
+CODE_SMELL
+q
+squid:S106S"9Replace this use of System.out or System.err by a logger.(ùäîÃøÿÿÿÿ8øü³¼•,H¹ RMAJORZ
+CODE_SMELL
+q
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ƒ™¸Üüÿÿÿÿ8œ„äæ•,H» RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(•ùøý8×Õ„ç•,H¿ RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(ç¶Á8õƒŒç•,HÁ RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(øèã¦ùÿÿÿÿ8×Õ„ç•,HÀ RMAJORZ
+CODE_SMELL
+l
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ê¹¯ý8þÒè»•,H  RMAJORZ
+CODE_SMELL
+l
+squid:S106h"9Replace this use of System.out or System.err by a logger.(Œ­Ë8××íæ•,H½ RMAJORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¾ÃŠ™úÿÿÿÿHž RMINORZ
+CODE_SMELL
