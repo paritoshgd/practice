@@ -3,7 +3,7 @@ package LinkedList;
 class Node{
 	
 	int data;
-	Node next;
+	SNode next;
 	
 	 Node(int data){
 		this.data=data;
@@ -13,7 +13,7 @@ class Node{
 
 class LinkedList {
 	
-	Node top;
+	SNode top;
 	
 	public LinkedList() {
 		top=null;
@@ -23,7 +23,7 @@ class LinkedList {
 		//create top of stack 
 		
 		//create a new node and fill it 
-		Node newNode=new Node(x);
+		SNode newNode=new SNode(x);
 		//set the next pointer of node to top of the list
 		newNode.next=top;
 		//set the top of the node.
@@ -32,14 +32,14 @@ class LinkedList {
 	
 	public void deleteTopNode() {
 		
-		Node temp = top;
+		SNode temp = top;
 		top=temp.next;
 			
 	}
 	
 	public void display() {
 		
-		Node temp=top;
+		SNode temp=top;
 		while(temp!=null) {
 			System.out.print(temp.data+"-->");
 			temp=temp.next;
@@ -49,10 +49,10 @@ class LinkedList {
 
 class stack{
 	
-	private LinkedList listObj;
+	private SLinkedList listObj;
 	
 	stack(){
-		listObj=new LinkedList();
+		listObj=new SLinkedList();
 	}
 	
 	public void push(int x) {
@@ -65,7 +65,7 @@ class stack{
 	}
 	
 	public void display() {
-		listObj.display();
+		//listObj.display();
 	}
 }
 public class StackAsLinkedList {

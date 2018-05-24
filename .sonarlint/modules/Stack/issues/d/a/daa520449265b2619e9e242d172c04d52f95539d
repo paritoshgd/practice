@@ -1,0 +1,17 @@
+
+‘
+squid:S135A"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8€É‡˜,Hí$RMINORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¾ÃŠ™úÿÿÿÿHî$RMINORZ
+CODE_SMELL
+vsquid:S2583#"DChange this condition so that it does not always evaluate to "false"(¼«¯˜üÿÿÿÿ8Ç´â†˜,Hï$RMAJORZBUG
+ssquid:S18542":Remove this useless assignment to local variable "sorted".(Ã•Òıÿÿÿÿ8Èƒª‡˜,Hğ$RMAJORZ
+CODE_SMELL
+‹squid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œä×Ğûÿÿÿÿ8¸€ö†˜,Hñ$RMINORZ
+CODE_SMELL
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ÖÏÉã8Ç´â†˜,Hò$RMAJORZ
+CODE_SMELL
+l
+squid:S106&"9Replace this use of System.out or System.err by a logger.(°Äöù8£ˆá†˜,Hó$RMAJORZ
+CODE_SMELL

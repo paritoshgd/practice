@@ -81,3 +81,13 @@ Y
 )src/LinkedList/RemoveElementsByValue.java,6\9\699d7522033fae20b204ad488b416e457b709a5c
 b
 2src/LinkedList/DeleteNodeWithAccessToThatNode.java,1\f\1fc88c6a8987606c96e6d23b3760f8761141f513
+U
+%src/LinkedList/SwapAdjacentNodes.java,a\c\ac4896ef8501ec2abec275ab75e2b768c503fa80
+Q
+!src/LinkedList/OddEvenLength.java,a\3\a3f500f65b632f7e3397a14a6f3148c49bff12e4
+R
+"src/LinkedList/MergeSortLists.java,d\a\daa520449265b2619e9e242d172c04d52f95539d
+`
+0src/LinkedList/RemoveDuplicatesUnSortedlist.java,c\2\c276a72dd034c0bdd26682b4e29a878dd6f78a49
+D
+src/Trees/Btree.java,a\1\a15e243f2851fde97a6f7554e6c002a551a20b5e

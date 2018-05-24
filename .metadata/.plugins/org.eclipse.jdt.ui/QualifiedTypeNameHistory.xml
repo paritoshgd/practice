@@ -13,10 +13,6 @@
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="JavaConcepts.ArrayMinMax.MinMaxOfArray"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.Set"/>
-<fullyQualifiedTypeName name="java.util.HashSet"/>
-<fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="Strings.WordNode"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
@@ -27,7 +23,6 @@
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.Stack"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
 <fullyQualifiedTypeName name="LinkedList.LinkedList"/>
@@ -35,4 +30,16 @@
 <fullyQualifiedTypeName name="Strings.Isomorphic"/>
 <fullyQualifiedTypeName name="LinkedList.OCList"/>
 <fullyQualifiedTypeName name="LinkedList.OCNode"/>
+<fullyQualifiedTypeName name="LinkedList.OENode"/>
+<fullyQualifiedTypeName name="LinkedList.MEList"/>
+<fullyQualifiedTypeName name="LinkedList.MENode"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.Queue"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="Trees.BTreeNode"/>
+<fullyQualifiedTypeName name="Trees.BTreeOps"/>
+<fullyQualifiedTypeName name="java.util.TreeMap"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>

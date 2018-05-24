@@ -1,0 +1,170 @@
+
+squid:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÀ*8¸şµÌ¤,HÈ8RMINORZ
+CODE_SMELL
+m
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(›Âé8ÂüŞÍ¤,HÉ8RMAJORZ
+CODE_SMELL
+r
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(ïÿÀøÿÿÿÿ8ÒšæÈ¤,HÊ8RMAJORZ
+CODE_SMELL
+m
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(¿“ï8ÚüğÈ¤,HË8RMAJORZ
+CODE_SMELL
+r
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ó¯õÈ¤,HÌ8RMAJORZ
+CODE_SMELL
+m
+squid:S106×"9Replace this use of System.out or System.err by a logger.(‚¥¹¸8š¸ñÍ¤,HÍ8RMAJORZ
+CODE_SMELL
+r
+squid:S106å"9Replace this use of System.out or System.err by a logger.(§–åûÿÿÿÿ8Ú÷åÍ¤,HÎ8RMAJORZ
+CODE_SMELL
+squid:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îõ¦›8’¸Ì¤,HÏ8RMINORZ
+CODE_SMELL
+m
+squid:S106§"9Replace this use of System.out or System.err by a logger.(Â•¹™8É çÍ¤,HĞ8RMAJORZ
+CODE_SMELL
+l
+squid:S106s"9Replace this use of System.out or System.err by a logger.(…Ñ‰’8”™ûô›,HÑ8RMAJORZ
+CODE_SMELL
+¡"squid:ClassVariableVisibilityCheck"NMake a1 a static final constant or non-public and provide accessors if needed.(ÿ Ê»ıÿÿÿÿ8Á‹ÙÈ¤,HÒ8RMINORZVULNERABILITY
+m
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(¸î½¸8Ú÷åÍ¤,HÓ8RMAJORZ
+CODE_SMELL
+¦squid:S1319"mThe type of the "a1" object should be an interface such as "List" rather than the implementation "ArrayList".(ÿ Ê»ıÿÿÿÿ8Á‹ÙÈ¤,HÔ8RMINORZ
+CODE_SMELL
+l
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(Èßğ8É çÍ¤,HÕ8RMAJORZ
+CODE_SMELL
+r
+squid:S106©"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°ªåÍ¤,HÖ8RMAJORZ
+CODE_SMELL
+m
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(ñ‚‰8Ú÷åÍ¤,H×8RMAJORZ
+CODE_SMELL
+•squid:S1488¡"[Immediately return this expression instead of assigning it to the temporary variable "sum".(áÕõ’ùÿÿÿÿ8É çÍ¤,HØ8RMINORZ
+CODE_SMELL
+isquid:S1066ö"/Merge this if statement with the enclosing one.(¡ŒÃÜøÿÿÿÿ8É çÍ¤,HÙ8RMAJORZ
+CODE_SMELL
+r
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°ªåÍ¤,HÚ8RMAJORZ
+CODE_SMELL
+squid:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦ç’İ8‹åÈ¤,HÛ8RMINORZ
+CODE_SMELL
+squid:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(—«•»8ú€ŞÍ¤,HÜ8RMINORZ
+CODE_SMELL
+xsquid:S1155©">Use isEmpty() to check whether the collection is empty or not.(ÜÊ˜ıÿÿÿÿ8ÂüŞÍ¤,Hİ8RMINORZ
+CODE_SMELL
+r
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(ÿ¨“µÿÿÿÿÿ8”™ûô›,HŞ8RMAJORZ
+CODE_SMELL
+r
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8½šáÌ¤,Hß8RMAJORZ
+CODE_SMELL
+©squid:S1319"pThe type of the "ht" object should be an interface such as "SortedMap" rather than the implementation "TreeMap".(£–Çùÿÿÿÿ8™×È¤,Hà8RMINORZ
+CODE_SMELL
+r
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°ªåÍ¤,Há8RMAJORZ
+CODE_SMELL
+k
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Ô„Ôa8Ë§ÿô›,Hâ8RMAJORZ
+CODE_SMELL
+r
+squid:S106·"9Replace this use of System.out or System.err by a logger.(şñóïÿÿÿÿÿ8É çÍ¤,Hã8RMAJORZ
+CODE_SMELL
+r
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°ªåÍ¤,Hä8RMAJORZ
+CODE_SMELL
+k
+squid:S106?"9Replace this use of System.out or System.err by a logger.(Ô„Ôa8‘û”„›,Hå8RMAJORZ
+CODE_SMELL
+r
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(ÏÂÚøÿÿÿÿ8É çÍ¤,Hæ8RMAJORZ
+CODE_SMELL
+r
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ÿÿô›,Hç8RMAJORZ
+CODE_SMELL
+squid:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îõ¦›8É çÍ¤,Hè8RMINORZ
+CODE_SMELL
+r
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(›Ûæ³ÿÿÿÿÿ8Ú÷åÍ¤,Hé8RMAJORZ
+CODE_SMELL
+r
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÚüğÈ¤,Hê8RMAJORZ
+CODE_SMELL
+r
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(’¬”ïúÿÿÿÿ8°ªåÍ¤,Hë8RMAJORZ
+CODE_SMELL
+’
+squid:S135…"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8É çÍ¤,Hì8RMINORZ
+CODE_SMELL
+€squid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(ù¡áÅ8É çÍ¤,Hí8RMAJORZ
+CODE_SMELL
+l
+squid:S106…"9Replace this use of System.out or System.err by a logger.(Ô„Ôa8É çÍ¤,Hî8RMAJORZ
+CODE_SMELL
+r
+squid:S106É"9Replace this use of System.out or System.err by a logger.(•¦Ûñüÿÿÿÿ8Ó¯õÈ¤,Hï8RMAJORZ
+CODE_SMELL
+k
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Ô„Ôa8Ë§ÿô›,Hğ8RMAJORZ
+CODE_SMELL
+m
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(„ü¯8°ªåÍ¤,Hñ8RMAJORZ
+CODE_SMELL
+¡"squid:ClassVariableVisibilityCheck"NMake ht a static final constant or non-public and provide accessors if needed.(£–Çùÿÿÿÿ8™×È¤,Hò8RMINORZVULNERABILITY
+r
+squid:S106²"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ú€ŞÍ¤,Hó8RMAJORZ
+CODE_SMELL
+r
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(‚Œß…ùÿÿÿÿ8š¸ñÍ¤,Hô8RMAJORZ
+CODE_SMELL
+r
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8É çÍ¤,Hõ8RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(ŞÎÃ«8É çÍ¤,Hö8RMAJORZ
+CODE_SMELL
+q
+squid:S106V"9Replace this use of System.out or System.err by a logger.(§–åûÿÿÿÿ8ÒšæÈ¤,H÷8RMAJORZ
+CODE_SMELL
+r
+squid:S106È"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ä§áÈ¤,Hø8RMAJORZ
+CODE_SMELL
+r
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8É çÍ¤,Hù8RMAJORZ
+CODE_SMELL
+r
+squid:S106­"9Replace this use of System.out or System.err by a logger.(´‘Æàúÿÿÿÿ8Ú÷åÍ¤,Hú8RMAJORZ
+CODE_SMELL
+r
+squid:S106³"9Replace this use of System.out or System.err by a logger.(ÉıÜÊüÿÿÿÿ8ÂüŞÍ¤,Hû8RMAJORZ
+CODE_SMELL
+msquid:S1197"8Move the array designator from the variable to the type.(ûáˆÜ8É çÍ¤,Hü8RMINORZ
+CODE_SMELL
+m
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(ğı¿—8ÆãíÈ¤,Hı8RMAJORZ
+CODE_SMELL
+r
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(Òš‚Âúÿÿÿÿ8ÂüŞÍ¤,Hş8RMAJORZ
+CODE_SMELL
+”squid:S1488ç"ZImmediately return this expression instead of assigning it to the temporary variable "fd".(š¡©úşÿÿÿÿ8É çÍ¤,Hÿ8RMINORZ
+CODE_SMELL
+xsquid:S1155Æ">Use isEmpty() to check whether the collection is empty or not.(ÜÊ˜ıÿÿÿÿ8É çÍ¤,H€9RMINORZ
+CODE_SMELL
+k
+squid:S106I"9Replace this use of System.out or System.err by a logger.(Ô„Ôa8ÆãíÈ¤,H9RMAJORZ
+CODE_SMELL
+r
+squid:S106£"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°ªåÍ¤,H‚9RMAJORZ
+CODE_SMELL
+r
+squid:S106º"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°ªåÍ¤,Hƒ9RMAJORZ
+CODE_SMELL
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(õúü§H„9RMINORZ
+CODE_SMELL
+r
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8É çÍ¤,H…9RMAJORZ
+CODE_SMELL
+r
+squid:S106°"9Replace this use of System.out or System.err by a logger.(’¡œ®ûÿÿÿÿ8ÆãíÈ¤,H†9RMAJORZ
+CODE_SMELL
